@@ -1,1 +1,1 @@
-this is the board of the page
+motd: message of the day

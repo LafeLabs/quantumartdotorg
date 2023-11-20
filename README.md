@@ -6,6 +6,11 @@
 
 ### NO WAR BUT THE MATH WAR!
 
+REPLICATOR URL:
+
+```
+https://quantumart.org/php/replicator.txt
+```
 REPLICATOR:
 
 ```
@@ -66,3 +71,7 @@ a{
 </style>
 
 ```
+
+![](https://raw.githubusercontent.com/LafeLabs/quantumartdotorg/main/trashmagic/qrcode.png)
+
+![](https://raw.githubusercontent.com/LafeLabs/quantumartdotorg/main/trashmagic/qrcode-page.png)
