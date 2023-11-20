@@ -1,14 +1,3 @@
-# QUANTUM ART DOT ORG
-
-## [WWW.QUANTUMART.ORG](https://www.quantumart.org)
-
-### DESTROY ALL BINARIES!
-
-### NO WAR BUT THE MATH WAR!
-
-REPLICATOR:
-
-```
 <?php
 
 $dnaurl = "https://quantumart.org/data/dna.txt";
@@ -64,5 +53,3 @@ a{
     font-size:3em;
 }
 </style>
-
-```
